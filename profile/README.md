@@ -51,6 +51,7 @@ chibivue land は日本の Vue.js コミュニティを起点とした，イン�
 
 この国のシンボル (天皇) は kawaiko (由来: 可愛い子) です．kawaiko ちゃん (かわいこちゃん) と呼びましょう．\
 (シンボルであるため，性別はないとされていますが，敬称は「ちゃん」とします．)\
+(マガモなのだから，その風合いについて生物学的にオスであろう，という偏見を持つのはやめましょう．不適切行動です．)\
 主上がなぜ鴨をモチーフにこの国のシンボルとして現れているかは定かではありません．
 
 <img src="https://raw.githubusercontent.com/chibivue-land/art/main/kawaiko_funny.png" alt="kawaiko funny" width="180"><img src="https://raw.githubusercontent.com/chibivue-land/art/main/kawaiko_question.png" alt="kawaiko question" width="180"><img src="https://raw.githubusercontent.com/chibivue-land/art/main/kawaiko_surprise.png" alt="kawaiko surprise" width="180"><img src="https://raw.githubusercontent.com/chibivue-land/art/main/kawaiko_warning.png" alt="kawaiko warning" width="180"><img src="https://raw.githubusercontent.com/chibivue-land/art/main/kawaiko_angry.png" alt="kawaiko angry" width="180">
