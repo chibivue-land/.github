@@ -13,6 +13,7 @@ chibivue land は日本の Vue.js コミュニティを起点とした，イン�
 (Vue.js および Vue.js JP が公式に運営しているものではありません．非公式コミュニティです)
 
 住所: https://discord.gg/aVHvmbmSRy
+Web サイト: https://chibivue.land
 
 この国の国王は [@ubugeeei](https://github.com/ubugeeei) として広く知られていますが，もののけの王として祟り神になりました．\
 ※ 稀にインターネット上に人間の形としてその姿をあらわにすることがあります．
